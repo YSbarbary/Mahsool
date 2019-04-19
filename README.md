@@ -25,7 +25,7 @@ investing small tickets in multiple projects.
 ## Framework
 https://www.ethereum.org/
 
-![Alt text](https://github.com/YSbarbary/Mahsool/blob/master/Platform-1.jpg "Platform")
+![Alt text](https://github.com/YSbarbary/Mahsool/blob/master/platforms_d.jpg "Platform")
 
 ## API s and integrations
 ABE Agri Phone service  efinanace "https://www.efinance.com.eg/ar/"
