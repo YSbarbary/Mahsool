@@ -15,6 +15,7 @@ It might take months to get their documents through the loan department of a ban
 his whole process also created another hidden benefit. Since the ownership of lands was established for farmers using their digital ID, banks and institutional micro-lenders started to offer loans to these smaller farmers, improving their lifestyle.
 ## How we used blockchain 
  lets them build smart contracts, trace and validate transactions and ownership rights, perform transactions through HARA tokens, and enables tokens to be traded on third-party token exchanges. The tokens incentivize the different parties in the system to participate, constantly building up a repository of valuable data. “Good information is the basis for good credit and goodwill. In our current economy, data is currency,” says Werner Vogels, CTO of Amazon and a strong supporter of the project. 
+ 
 ## Why weo use block chain
 Blockchain technology and Smart Contracts make a new level of crowdlending possible,
 improving its security and transparency, thus enabling transactions between strangers. Costs are
@@ -23,7 +24,7 @@ directly from investors’ to borrower’s wallets without financial intermediar
 system giving rise to true international crowdlending, and also allowing for risk diversification:
 investing small tickets in multiple projects.
 ## Framework
-https://www.ethereum.org/
+we now using hyperledger but aims to use ethereum
 
 ![Alt text](https://github.com/YSbarbary/Mahsool/blob/master/platforms_d.jpg "Platform")
 
