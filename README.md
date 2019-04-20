@@ -84,5 +84,3 @@ If the lender approves the loan request, the smart contract decides the fixed ra
 The borrowers can be categorized as high-risk, medium-risk or low-risk borrowers based on their repayment rates.
 For example, lenders can set the low rate of interest for a low-risk borrower having good repayment rate.
 Using  Lending Blockchain Platform, the rate of interests remain fixed all over the world.
-
-## The Model and Diagarms
