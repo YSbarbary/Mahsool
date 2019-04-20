@@ -8,11 +8,12 @@ It might take months to get their documents through the loan department of a ban
 
 ## What problems are we solving?
 
-1- increase access to finance
-2- increase profit
-2- establish a digital identity of small farmers 
-3- hashed on a blockchain and based on the existing paper ID documents of the farmers
+### 1- increase access to finance
+### 2- increase profit
+### 3- establish a digital identity of small farmers 
+### 4- hashed on a blockchain and based on the existing paper ID documents of the farmers
 his whole process also created another hidden benefit. Since the ownership of lands was established for farmers using their digital ID, banks and institutional micro-lenders started to offer loans to these smaller farmers, improving their lifestyle.
+
 ## How we used blockchain 
  lets them build smart contracts, trace and validate transactions and ownership rights, perform transactions through HARA tokens, and enables tokens to be traded on third-party token exchanges. The tokens incentivize the different parties in the system to participate, constantly building up a repository of valuable data. “Good information is the basis for good credit and goodwill. In our current economy, data is currency,” says Werner Vogels, CTO of Amazon and a strong supporter of the project. 
  
@@ -23,6 +24,7 @@ significantly reduced, and transparency is higher by transferring Ethereum compa
 directly from investors’ to borrower’s wallets without financial intermediaries; A decentralized
 system giving rise to true international crowdlending, and also allowing for risk diversification:
 investing small tickets in multiple projects.
+
 ## Framework
 we now using hyperledger but aims to use ethereum
 
@@ -35,6 +37,7 @@ Fawry
 ## how to install
 
 ## Steps 
+
 ### Step 1 – Lender creates a profile
 A lender could create a profile with the information including:
 •	Personal Information (Name, Address, and ID number)
