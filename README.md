@@ -4,9 +4,11 @@ Mahsool is a Mobile application to connect impact investors with smallfarmers
 Mahsool, is a blockchain based transparent market place where the farmers and consumers could implement a co-operative farming method. Here, the farmers can list the potential crops and the expected yield on his farm on the distributed public ledger. The consumers can view the details and check for the farmer credibility based on the previous cultivation and supply. This creates a transparent and tamper-proof digital market platform for farm products. Thus an agreement (consensus) can be formed between farmer and consumer, such that the consumer can fund individual crops or a field and can acquire or the yield from the farm or the profit percentage of its market value. There will be a rating mechanism to build the credibility of farmer and consumer based on the previous experiences in the agromarket.
 
 ## Why Mahsool
-It might take months to get their documents through the loan department of a bank, only to find out that their land title isn’t clear, and they can’t borrow. Their only choice is to turn to an expensive local loan shark for the necessary cash.
+farmars might take months to get their documents through the loan department of a bank, only to find out that their land title isn’t clear, and they can’t borrow. Their only choice is to turn to an expensive local loan shark for the necessary cash.
 
 ## What problems are we solving?
+Mahsool enables small Farmers from Egypt to access loans at much lower rates than the ones now available to them. Meaning both parties benefit from this exchange.
+
 
 ### 1- increase access to finance
 ### 2- increase profit
