@@ -1,4 +1,4 @@
-# Mahsool
+# Mahsool Egypt hackathon 2030
 
 Mahsool is crowd-lending platform that increase access to highly profitable projects with positive impact, by directly connecting investors to projects rated by risk level.
 
