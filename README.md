@@ -28,11 +28,15 @@ investing small tickets in multiple projects.
 ## Framework
 we now using hyperledger but aims to use ethereum
 
+## Structure
 ![Alt text](https://github.com/YSbarbary/Mahsool/blob/master/platforms_d.jpg "Platform")
+## Investment Flow
+![Alt text](https://github.com/YSbarbary/Mahsool/blob/master/investment flow-1.jpg "Platform")
+
 
 ## API s and integrations
 ABE Agri Phone service  efinanace "https://www.efinance.com.eg/ar/"
-Fawry 
+Fawry https://fawry.com/
 
 ## how to install
 
