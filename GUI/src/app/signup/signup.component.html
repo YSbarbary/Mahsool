@@ -1,0 +1,55 @@
+<div class="container">
+
+<div class="row">
+  <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+    <a routerLink="/" href="" class="logo"><h1>محصولي</h1></a>
+    <div class="card card-signin my-5">
+      <div class="card-body">
+        <h5 class="card-title text-center">تسجيل حساب جديد</h5>
+        <form class="form-signin">
+          <div class="form-label-group">
+            <input type="name" id="name" class="form-control" placeholder="الاسم بالكامل" required autofocus>
+          </div>
+
+          <div class="form-label-group">
+            <input type="text" id="number" class="form-control" placeholder="رقم الهاتف" required>
+          </div>
+          <div class="form-group">
+            <select class="form-control country" id="country">
+              <option selected="selected" disabled>المحافظة</option>
+              <option>الجيزة  </option>
+              <option>الإسماعيلية</option>
+              <option>كفر الشيخ</option>
+              <option>مطروح</option>
+              <option>المنيا</option>
+              <option>المنوفية</option>
+              <option>الوادي الجديد</option>
+              <option>شمال سيناء</option>
+              <option>بورسعيد</option>
+              <option>القليوبية</option>
+              <option>قنا</option>
+              <option>البحر الأحمر</option>
+              <option>الشرقية</option>
+              <option>سوهاج</option>
+              <option>جنوب سيناء</option>
+              <option>السويس</option>
+              <option>الأقصر</option>
+            </select>
+          </div>
+
+          <div class="form-label-group">
+            <input type="password" id="password" class="form-control" placeholder="كلمة السر" required>
+          </div>
+
+          <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit" routerLink="/loanreq">تسجيل حساب جديد</button>
+          <hr class="my-4">
+          <button class="btn btn-lg btn-facebook btn-block text-uppercase" type="submit">المتابعة بفيسبوك
+            <fa name="facebook"></fa>
+          </button>
+        </form>
+        <p>لديك حساب؟ <a href="#" routerLink="/login">الدخول</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>

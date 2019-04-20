@@ -1,0 +1,110 @@
+
+.card-signin {
+  border: 0;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.card-signin .card-title {
+  margin-bottom: 2rem;
+  font-weight: 300;
+  font-size: 1.5rem;
+}
+
+.card-signin .card-body {
+  padding: 2rem 3rem;
+}
+
+.form-signin {
+  width: 100%;
+}
+
+.form-signin .btn {
+  font-size: 1rem;
+  border-radius: 5rem;
+  font-weight: bold;
+  padding: 1rem;
+  transition: all 0.2s;
+}
+
+.form-label-group {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.form-label-group input {
+  height: auto;
+  border-radius: 2rem;
+}
+
+.form-label-group > input,
+.form-label-group > label {
+  padding: 14px;
+  text-align: right;
+}
+
+.form-label-group > label {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: block;
+  width: 100%;
+  margin-bottom: 0;
+  /* Override default `<label>` margin */
+  line-height: 1.5;
+  color: #495057;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  transition: all .1s ease-in-out;
+}
+
+.btn-facebook {
+  color: white;
+  background-color: #3b5998;
+}
+.btn-primary {
+  color: #fff;
+  background-color: rgba(23,204,86,1);
+  border-color: rgba(23,204,86,1);
+}
+.btn-primary:hover {
+  background-color: rgba(67,176,92,1);
+}
+.btn-primary:active:focus{
+  background-color: rgba(67,176,92,1);
+}
+fa{
+  margin-left: 10px;
+}
+
+h1{
+  font-size: 60px;
+  font-weight: 700;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.logo{
+  text-decoration: none;
+}
+
+.logo h1{
+  margin-top: 10%;
+}
+p{
+  margin-top: 10px;
+  text-align: center;
+}
+p a{
+  color: rgba(23,204,86,1);
+}
+.country{
+  text-align: right;
+}
+option{
+  text-align: right;
+}
+select{
+  border-radius: 1rem;
+}

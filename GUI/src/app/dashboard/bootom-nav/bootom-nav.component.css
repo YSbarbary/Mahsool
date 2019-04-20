@@ -1,0 +1,42 @@
+.icon-bar {
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  background-color: #f4fbf0;
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  text-decoration: none;
+  width: 33.333%;
+  text-align: center;
+  padding-top: 12px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 18px;
+  color: #000;
+
+}
+
+.icon-bar a img {
+  width: 50px;
+  margin-bottom: 10px;
+}
+
+.icon-bar a:hover {
+  background-color: #f4fbf0;
+}
+
+.active {
+  /*background-color: rgba(23,204,86,1);*/
+}
+
+p{
+  margin: 0;
+  margin-bottom: 7px;
+}
+
+.active p{
+  color: rgba(23,204,86,1);
+}

@@ -1,0 +1,49 @@
+<div class="container">
+  <div class="row">
+  <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+    <a routerLink="/" href="" class="logo"><h1>محصولي</h1></a>
+    <div class="card card-signin my-5">
+      <div class="card-body">
+        <div class="reqLoan">
+          <img src="../../assets/farmer.png" alt="Farmer">
+          <div class="">
+            <h1 class="title-req">طلب قرض</h1>
+            <div class="card-body">
+              <form class="form-signin">
+
+                <div class="form-group">
+                  <select class="form-control amount" id="amount">
+                    <option selected="selected" disabled>المبلغ الذي تريده</option>
+                    <option>اقل من 5000 جنية</option>
+                    <option>أقل من 10000 جنية</option>
+                    <option>أقل من 50000 جنية</option>
+                    <option>أكثر من 50000 جنية</option>
+                  </select>
+                </div>
+
+                <div class="form-group">
+                  <select class="form-control prp" id="prp">
+                    <option selected="selected" disabled>الهدف من التمويل</option>
+                    <option>تحديث نظام الري</option>
+                    <option>وحدات شمسية</option>
+                    <option>سماد عضوي</option>
+                    <option>تربية ماشية وأعلاف</option>
+                    <option>تصنيع منتجات ألبان</option>
+                    <option>فرز وتعبئة وتجميد الفاكهة</option>
+                    <option>شراء أو تأجير آلات</option>
+                    <option>أخرى</option>
+                  </select>
+                </div>
+
+                <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit" routerLink="/loanreqconfirm">تقديم الطلب</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div>

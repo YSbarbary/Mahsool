@@ -1,0 +1,9 @@
+.wallet{
+  text-align: center;
+  padding-top: 30px;
+}
+.wallet h1{
+  font-weight: 700;
+  font-size: 80px;
+  color: #495057;
+}
