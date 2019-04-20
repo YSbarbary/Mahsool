@@ -31,7 +31,7 @@ investing small tickets in multiple projects.
 we now using hyperledger but aims to use ethereum
 
 ## Structure
-![Alt text](https://github.com/YSbarbary/Mahsool/blob/master/platforms_d.jpg "Platform")
+![Alt text](https://github.com/YSbarbary/Mahsool/blob/master/arc.jpg "Platform")
 ## Investment Flow
 ![Alt text](https://github.com/YSbarbary/Mahsool/blob/master/investment.jpg "Platform")
 
