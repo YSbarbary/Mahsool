@@ -84,6 +84,7 @@ $ ./startFabric.sh
 
 ## Steps 
 https://youtu.be/lH_lfm6WMaY
+https://youtu.be/c5xBNqxBaF8
 
 ### Step 1 – Lender creates a profile
 A lender could create a profile with the information including:
