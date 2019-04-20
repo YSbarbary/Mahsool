@@ -1,5 +1,4 @@
 # Mahsool
-Mahsool is a Mobile application to connect impact investors with smallfarmers
 
 Mahsool is crowd-lending platform that increase access to highly profitable projects with positive impact, by directly connecting investors to projects rated by risk level.
 
