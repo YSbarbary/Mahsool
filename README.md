@@ -63,32 +63,7 @@ Issue from the `fabric-tools` directory:
 $ ./startFabric.sh
 ```
 
-### Stop Hyperledger Fabric
 
-Issue from the `fabric-tools` directory:
-
-```
-$ ./stop.sh
-```
-
-### Create Hyperledger Composer PeerAdmin card
-
-Issue from the `fabric-tools` directory:
-
-```
-$ ./createPeerAdminCard.sh
-```
-
-Note: this will create a Hyperledger Composer card specifically for the use of deploying a business network either
-by using deploy or via install/start.
-
-### Teardown Hyperledger Fabric
-
-Issue from the `fabric-tools` directory:
-
-```
-$ ./teardownFabric.sh
-```
 
 ## Steps 
 
