@@ -1,0 +1,106 @@
+/*
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/**
+ * Write your model definitions here
+ */
+
+namespace org.example.mynetwork
+
+participant Farmer identified by farmerId {
+  o String farmerId
+  o String name
+  o String mobile
+  o String profilePhoto optional
+  o String address optional
+  o String nationalId optional 
+  o String nationalIdScan optional
+  o String nationalIdSelfie optional
+  o String birthdate optional
+  o String birthCertificate optional 
+  o String[] badges optional
+  o String rating optional
+  --> Project[] projects optional 
+  --> HarvestData harvestData optional
+}
+
+asset HarvestData identified by harvestId {
+  o String harvestId
+  o String commodity optional
+  o String kiloSellingPrice optional
+  o String seasonCost optional
+  o String date optional
+}
+
+asset Project identified by projectId {
+  o String projectId
+  o String data optional
+  o String name optional
+  o String picture optional
+  o String goal optional
+  o String story optional 
+  o String budget optional 
+  o String loanLenght optional 
+  o String projectMemebers optional 
+  o String repaymentSchedule optional
+  o String disbursedDate optional
+  o Boolean interest optional
+  o String riskRating optional
+  --> Agent agent optional
+  --> Farmer[] partners optional
+}
+
+participant Agent identified by agentId {
+  o String agentId
+  o String firstName
+  o String lastName optional
+}
+
+participant Invistor identified by invistorId {
+  o String invistorId
+  o String firstName
+  o String lastName optional
+}
+
+transaction FarmerHarvestData {
+  --> HarvestData harvestData
+  o String commodity optional
+  o String kiloSellingPrice optional
+  o String seasonCost optional
+  o String date optional
+}
+
+transaction FarmerProject {
+  --> Project project
+  o String data optional
+  o String name optional
+  o String picture optional
+  o String goal optional
+  o String story optional 
+  o String budget optional 
+  o String loanLenght optional 
+  o String projectMemebers optional 
+  o String repaymentSchedule optional
+  o String disbursedDate optional
+  o Boolean interest optional
+  o String riskRating optional
+  --> Agent agent optional
+  --> Farmer[] partners optional
+}
+
+// event SampleEvent {
+//   --> SampleAsset asset
+//   o String oldValue
+//   o String newValue
+// }
