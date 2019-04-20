@@ -42,6 +42,19 @@ Fawry https://fawry.com/
 
 ## how to install
 
+Setting `HL_COMPOSER_CLI` to the actual version of composer you want will ensure it used. For example for a local install follow this
+
+Setting `HL_COMPOSER_CLI` to the actual version of composer you want will ensure it used. For example for a local install follow this
+
+```bash
+$ npm install composer-cli
+$ # install locally to the node_modules directory of this packge
+$ export HL_COMPOSER_CLI=$(npm bin)/composer
+$ # this will now use the local version
+$ npx composer --version
+$ # this can be used to get npm to run the local version.
+```
+
 ## Steps 
 
 ### Step 1 – Lender creates a profile
