@@ -35,7 +35,7 @@ we now using hyperledger but aims to use ethereum
 
 
 ## API s and integrations
-ABE Agri Phone service  efinanace "https://www.efinance.com.eg/ar/"
+ABE Agri Phone service  developed by efinanace "https://www.efinance.com.eg/ar/"
 Fawry https://fawry.com/
 
 ## how to install
